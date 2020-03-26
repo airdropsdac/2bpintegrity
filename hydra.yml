@@ -1,0 +1,11 @@
+contracts:
+  bpintegrity:
+    abi: build/bpintegrity/bpintegrity.abi
+    name: bpintegrity
+    wasm: build/bpintegrity/bpintegrity.wasm
+  telos.system:
+    abi: telos/telos.system.abi
+    fixturesDir: tests/fixtures/telos.system
+    name: telos.system
+    wasm: telos/telos.system.wasm
+options: null

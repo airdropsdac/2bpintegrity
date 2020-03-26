@@ -1,0 +1,59 @@
+{
+  "producer_account_name": "maltablockbp",
+  "org": {
+    "candidate_name": "Maltablock Guild",
+    "website": "https://maltablock.org",
+    "code_of_conduct": "https://maltablock.org/wax/code-of-conduct.html",
+    "ownership_disclosure": "https://maltablock.org/wax/ownership.html",
+    "branding": {
+      "logo_256": "https://maltablock.org/img/bp-json/maltablock_logo_256x256.png",
+      "logo_1024": "https://maltablock.org/img/bp-json/maltablock_logo_1024x1024.png",
+      "logo_svg": "https://maltablock.org/img/bp-json/maltablock_logo_1024x1024.svg"
+    },
+    "location": {
+      "name": "Champaign",
+      "country": "US",
+      "latitude": 40.116329,
+      "longitude": -88.243523
+    },
+    "social": {
+      "twitter": "airdropsdac",
+      "youtube": "channel/UC9vWQrlEBJ0BZ9ZzW-vY_1A",
+      "facebook": "airdropsdac",
+      "telegram": "michaelgucci",
+      "github": "airdropsdac"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "Ohio",
+        "country": "US",
+        "latitude": 40.417286,
+        "longitude": -82.907120
+      },
+      "node_type": "seed",
+      "p2p_endpoint": "p2p-wax.maltablock.org:9877"
+    },
+    {
+      "location": {
+        "name": "Ohio",
+        "country": "US",
+        "latitude": 40.417286,
+        "longitude": -82.907120
+      },
+      "node_type": "full",
+      "api_endpoint": "http://api-wax.maltablock.org",
+      "ssl_endpoint": "https://api-wax.maltablock.org"
+    },
+    {
+     "location": {
+       "name": "Mumbai",
+       "country": "IN",
+       "latitude": 19.0760,
+       "longitude": 72.877426
+    },
+    "node_type": "producer"
+    }
+  ]
+}

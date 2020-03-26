@@ -1,0 +1,12 @@
+{
+  "eosio": [{
+    "owner": "maltablockbp",
+    "total_votes": 0.0,
+    "producer_key": "EOS1111111111111111111111111111111114T1Anm",
+    "is_active": true,
+    "url": "",
+    "unpaid_blocks": 0,
+    "last_claim_time": "2000-01-04T00:00:00.000",
+    "location": 5
+  }]
+}

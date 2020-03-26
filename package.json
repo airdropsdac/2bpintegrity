@@ -1,0 +1,16 @@
+{
+  "name": "bpintegrity",
+  "version": "1.0.0",
+  "description": "--- bpintegrity Project ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --testEnvironment node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@klevoya/hydra": "^1.1.0",
+    "jest": "^25.2.1"
+  }
+}
