@@ -1,6 +1,6 @@
 # 2bpintegrity
 
-A smart contract for decentralizing block producers' bp.json and signing BP agreements. 
+A smart contract for increasing transparency about BP ownership and system administrators.
 
 Project is live on the [2bpintegrity account](https://wax.bloks.io/account/2bpintegrity).
 
